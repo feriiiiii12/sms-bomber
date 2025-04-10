@@ -30,7 +30,7 @@ pkg install git && pkg install python && pip install urllib3
 ## قدم سوم: کپی کردن فایل بمبر در دستگاه
 
 ```
-git clone https://github.com/NiREvil/sms-bomber
+git clone https://github.com/feriiiiii12/sms-bomber
 ```
 
 ## قدم چهارم: وارد شدن به پوشه بمبر
@@ -65,7 +65,7 @@ python sms-bomber.py
 
 #### کنجکاو باشید. 🤍🪐
 -----
-[ویدئو آموزش](https://t.me/F_NiREvil/5208)
+
 -------
 ---
 ### باکس دانلود ترماکس اندروید
@@ -131,7 +131,7 @@ python3 sms.py 9148608767 --times 1000
 
 > ### چند نکته:
 > > برای متوقف کردن بمباران پیامکی، کلید `ctrl + D` را فشار دهید.
->>> اگر ترمینال شما قادر به کپی کردن فایل توسط دستور کلون نیست، آن را [از اینجا](https://github.com/NiREvil/sms-bomber/blob/main/sms.py) دانلود کنید
+>>> اگر ترمینال شما قادر به کپی کردن فایل توسط دستور کلون نیست، آن را [از اینجا](https://github.com/feriiiiii/sms-bomber/blob/main/sms.py) دانلود کنید
 >>> و سپس به جای دستور `cd sms-bomber`، از دستور `cd downloads` برای قرار گرفتن در محل ذخیره فایل استفاده کنید،
 زیرا محل ذخیره شدن ابزار خود اکنون در پوشه دانلود حافظه دستگاه می‌باشد.
 
@@ -140,5 +140,5 @@ python3 sms.py 9148608767 --times 1000
 ---
 
   
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/NiREvil_) [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=1CA2F1)](https://t.me/F_NiREvil)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com) [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=1CA2F1)](https://t.me/farzad_ontop)
 
